@@ -1,6 +1,6 @@
 ## _Natsume Iroha_
 
-<td><img src="https://s1.zerochan.net/Natsume.Iroha.600.3680000.jpg"></td>
+<td><img src="https://s1.zerochan.net/Natsume.Iroha.600.3680000.jpg" width="800"></td>
 <td style="text-align: justify;">A member of the Pandemonium Society. There's nothing Iroha hates more than being bothered. She spends much of her time trying to figure out how to escape company. She even constantly carries a book around so people will leave her alone, but the Pandemonium Society (Makoto, to be exact) always interrupts her anyway. She begrudgingly serves as an executive of the Pandemonium Society, only finding comfort in their mascot, Ibuki.</td>
 
 ---
