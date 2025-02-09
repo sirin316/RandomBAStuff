@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td><img src="https://images.dotgg.gg/bluearchive/skillicons/common_skillicon_circle.webp" width="64" height="64"></td>
-<td><strong>Let's Go, Toramaru</strong><br>fires shells at up to 4 enemies, each shell dealing damage to enemies in a circular area around the target.</td>
+<td><strong>Annoying...</strong><br>Normal Skill<br>fires shells at up to 4 enemies, each shell dealing damage to enemies in a circular area around the target.</td>
 </tr>
 </table>
 
