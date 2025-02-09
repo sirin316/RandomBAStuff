@@ -8,10 +8,12 @@ A member of the Pandemonium Society. There's nothing Iroha hates more than being
 
 ### Skill
 
-<img src="https://images.dotgg.gg/bluearchive/skillicons/skillicon_ch0156_exskill.webp" width="64" height="64"> ## _Let's Go, Toramaru_
-
-EX Skill Cost: 8  
-Deploys Iroha riding Toramaru, granting it an additional portion of Iroha's ATK. Only one tactical support vehicle may be deployed at any given time.
+<table>
+<tr>
+<td><img src="https://images.dotgg.gg/bluearchive/skillicons/skillicon_ch0156_exskill.webp" width="64" height="64"></td>
+<td><strong>Let's Go, Toramaru</strong><br>EX Skill Cost: 8<br>Deploys Iroha riding Toramaru, granting it an additional portion of Iroha's ATK. Only one tactical support vehicle may be deployed at any given time.</td>
+</tr>
+</table>
 
 ---
 
