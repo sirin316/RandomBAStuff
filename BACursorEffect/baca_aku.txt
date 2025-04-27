@@ -1,0 +1,19 @@
+cara buka tampilan html (kalau belum tau)
+
+Instal Visual Studio Code (VSCode)
+Pastikan mereka udah punya VSCode. Bisa download dulu
+
+Pasang Extension "Live Server"
+Buka VSCode, terus klik icon Extensions di sebelah kiri (atau tekan Ctrl+Shift+X), terus cari "Live Server" dan install yang punya Ritwick Dey.
+
+Buka Folder Proyek
+Setelah itu, buka folder proyek yang ada file HTML-nya di VSCode. Caranya, klik File > Open Folder, terus pilih folder yang berisi file HTML.
+
+Buka File HTML
+Klik file HTML yang mau dibuka. Pastikan udah bener struktur HTML-nya.
+
+Jalankan Live Server
+Klik kanan di file HTML yang terbuka, terus pilih Open with Live Server. Atau bisa juga klik tombol Go Live yang ada di bawah pojok kanan
+
+Lihat di Browser
+Setelah itu, halaman HTML-nya bakal otomatis muncul di browser. Setiap kali ada perubahan di file HTML, tampilan di browser juga langsung update.

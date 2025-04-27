@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: #000;
+    overflow: hidden;
+}
+
+#canvas {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    pointer-events: none;
+}
