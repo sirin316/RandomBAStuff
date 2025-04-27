@@ -1,5 +1,11 @@
-## Random BA stuff just for fun
-This is a non-commercial fan project. All rights to Blue Archive belong to their respective owners.
+## **DISCLAIMER:**
+<h1 style="text-align:center; color:red; font-size: 36px; font-weight: bold;">
+    THIS IS A FANMADE PROJECT. ALL RIGHTS TO BLUE ARCHIVE BELONG TO NEXON GAMES AND YOSTAR.
+</h1>
+<h2 style="text-align:center; font-size: 24px; font-weight: normal;">
+    This project is non-commercial and made for fun. It is not an official release by the original developers.
+</h2>
+
 
 ---
 
