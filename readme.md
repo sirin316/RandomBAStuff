@@ -1,3 +1,8 @@
+## Random BA stuff just for fun
+This is a non-commercial fan project. All rights to Blue Archive belong to their respective owners.
+
+---
+
 ## _Natsume Iroha_
 
 <td><img src="https://s1.zerochan.net/Natsume.Iroha.600.3680000.jpg" width="1200"></td>
